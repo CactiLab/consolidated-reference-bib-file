@@ -4,4 +4,4 @@ git submodule add git@github.com:CactiLab/consolidated-reference-bib-file.git
 
 Then, add the following to your .tex file
 
-\bibliography{consolidated-ref}
+\bibliography{./consolidated-reference-bib-file/consolidated-ref}
